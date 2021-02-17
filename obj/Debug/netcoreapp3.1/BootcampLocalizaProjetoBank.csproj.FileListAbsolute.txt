@@ -1,0 +1,13 @@
+C:\Users\Notebook\OneDrive\Documentos\git\BootcampLocalizaProjetoBank\bin\Debug\netcoreapp3.1\BootcampLocalizaProjetoBank.exe
+C:\Users\Notebook\OneDrive\Documentos\git\BootcampLocalizaProjetoBank\bin\Debug\netcoreapp3.1\BootcampLocalizaProjetoBank.deps.json
+C:\Users\Notebook\OneDrive\Documentos\git\BootcampLocalizaProjetoBank\bin\Debug\netcoreapp3.1\BootcampLocalizaProjetoBank.runtimeconfig.json
+C:\Users\Notebook\OneDrive\Documentos\git\BootcampLocalizaProjetoBank\bin\Debug\netcoreapp3.1\BootcampLocalizaProjetoBank.runtimeconfig.dev.json
+C:\Users\Notebook\OneDrive\Documentos\git\BootcampLocalizaProjetoBank\bin\Debug\netcoreapp3.1\BootcampLocalizaProjetoBank.dll
+C:\Users\Notebook\OneDrive\Documentos\git\BootcampLocalizaProjetoBank\bin\Debug\netcoreapp3.1\BootcampLocalizaProjetoBank.pdb
+C:\Users\Notebook\OneDrive\Documentos\git\BootcampLocalizaProjetoBank\obj\Debug\netcoreapp3.1\BootcampLocalizaProjetoBank.csprojAssemblyReference.cache
+C:\Users\Notebook\OneDrive\Documentos\git\BootcampLocalizaProjetoBank\obj\Debug\netcoreapp3.1\BootcampLocalizaProjetoBank.AssemblyInfoInputs.cache
+C:\Users\Notebook\OneDrive\Documentos\git\BootcampLocalizaProjetoBank\obj\Debug\netcoreapp3.1\BootcampLocalizaProjetoBank.AssemblyInfo.cs
+C:\Users\Notebook\OneDrive\Documentos\git\BootcampLocalizaProjetoBank\obj\Debug\netcoreapp3.1\BootcampLocalizaProjetoBank.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\OneDrive\Documentos\git\BootcampLocalizaProjetoBank\obj\Debug\netcoreapp3.1\BootcampLocalizaProjetoBank.dll
+C:\Users\Notebook\OneDrive\Documentos\git\BootcampLocalizaProjetoBank\obj\Debug\netcoreapp3.1\BootcampLocalizaProjetoBank.pdb
+C:\Users\Notebook\OneDrive\Documentos\git\BootcampLocalizaProjetoBank\obj\Debug\netcoreapp3.1\BootcampLocalizaProjetoBank.genruntimeconfig.cache
